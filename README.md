@@ -1,7 +1,7 @@
 # Buddy Documentation
 
 [![Documentation Status](https://readthedocs.org/projects/offn/badge/?version=latest)](https://offn.readthedocs.io/en/latest/?badge=latest)
-[![GitHub Release](https://img.shields.io/github/v/release/Oklahoma-Friction-Free-Network/offn-documentation?style=flat-square)](https://github.com/Oklahoma-Friction-Free-Network/offn-documentation/blob/main/CHANGELOG.md)
+[![GitHub Release](https://img.shields.io/github/v/release/Oklahoma-Friction-Free-Network/offn-documentation?include_prereleases&style=flat-square)](https://github.com/Oklahoma-Friction-Free-Network/offn-documentation/blob/main/CHANGELOG.md)
 [![GitHub License](https://img.shields.io/github/license/Oklahoma-Friction-Free-Network/offn-documentation?style=flat-square)](https://opensource.org/licenses/MIT)
 
 A repository to host OFFN's source code for our [Read The Docs] page. Documentation is built with [Sphinx]. The latest published version of the documentation is located [here]. 
